@@ -2,4 +2,4 @@
 
 source ./installer_brew.sh 
 
-install_and_verify "Figma" "figma"
+install_and_verify "Spotify" "spotify"
